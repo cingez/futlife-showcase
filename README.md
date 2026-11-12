@@ -1,8 +1,8 @@
-# Futlife
+# Futlife — simulador de vida e carreira no futebol
 
 **Uma vida inteira no futebol, da infância ao epílogo.**
 
-Futlife é um RPG narrativo em desenvolvimento. A vida começa aos 6 anos e pode passar pela escolinha, categorias de base, carreira profissional e outros papéis no futebol. O jogador escolhe como se preparar, se relacionar e responder aos acontecimentos. Resultados esportivos são resolvidos pela simulação, não por um botão de vitória.
+Futlife é um jogo de futebol narrativo em desenvolvimento: um simulador de vida e carreira no futebol. A trajetória começa aos 6 anos e pode passar pela escolinha, categorias de base, carreira profissional e outros papéis no futebol. O jogador escolhe como se preparar, se relacionar e responder aos acontecimentos. Resultados esportivos são resolvidos pela simulação, não por um botão de vitória.
 
 > **Estado:** alpha fechada para testes. Futlife ainda é um nome de trabalho.
 
@@ -49,4 +49,4 @@ Este repositório é uma **apresentação pública** do projeto. O código compl
 
 ---
 
-**English:** Futlife is a work-in-progress narrative football life simulation. Start at age six, make decisions across childhood and a football career, and see how the world responds. The online alpha is invite-only. This repository is a public project showcase; the full source code is private.
+**English:** Futlife is a work-in-progress football career simulator and narrative soccer life sim. Start at age six, make decisions across childhood and a football career, and see how the world responds. The online alpha is invite-only. This repository is a public project showcase; the full source code is private.

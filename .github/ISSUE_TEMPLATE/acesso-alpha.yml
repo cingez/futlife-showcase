@@ -1,0 +1,30 @@
+name: Pedir acesso à alpha / Ask for alpha access
+description: Manifeste interesse em testar a alpha fechada do Futlife.
+title: "[Alpha] Interesse em testar"
+labels: ["alpha"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A alpha do Futlife é fechada, por convite e senha.
+        **Não publique dados pessoais, e-mail, telefone ou senhas nesta issue.**
+
+        The Futlife alpha is invite-only. **Do not post personal data or passwords here.**
+  - type: textarea
+    id: interesse
+    attributes:
+      label: O que você gostaria de avaliar? / What would you like to evaluate?
+      description: Ex.: a infância, a carreira de base, o Match Day, a leitura mobile.
+      placeholder: Conte brevemente que tipo de experiência você quer testar.
+    validations:
+      required: true
+  - type: dropdown
+    id: dispositivo
+    attributes:
+      label: Onde você jogaria? / Where would you play?
+      options:
+        - Celular / Mobile
+        - Computador / Desktop
+        - Os dois / Both
+    validations:
+      required: true
